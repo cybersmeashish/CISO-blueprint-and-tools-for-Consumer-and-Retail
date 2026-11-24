@@ -1,0 +1,24 @@
+{
+  "id": 4,
+  "title": "Consumer & Retail",
+  "slug": "CISO-blueprint-and-tools-for-Consumer-and-Retail",
+  "container": "ciso-industry-4-dev",
+  "volume": "ciso-industry-4-workspace",
+  "sectors": [
+    {
+      "title": "Retail & E-commerce",
+      "folder": "Retail & E-commerce",
+      "scope": "Brick-and-mortar stores, online marketplaces, apparel, and specialty retail."
+    },
+    {
+      "title": "CPG / FMCG",
+      "folder": "CPG-FMCG",
+      "scope": "Consumer Packaged Goods / Fast-Moving Consumer Goods: food, beverages, personal care, and household products."
+    },
+    {
+      "title": "Travel, Hospitality & Leisure",
+      "folder": "Travel, Hospitality & Leisure",
+      "scope": "Airlines, hotels, resorts, cruise lines, restaurants, and tourism."
+    }
+  ]
+}
